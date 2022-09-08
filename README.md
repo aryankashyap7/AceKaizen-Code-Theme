@@ -17,11 +17,11 @@
 
 ---
 
-<!-- <h2> Installation </h2>
+<h2> Installation </h2>
 
-<p> You can install this theme from the <a href="https://marketplace.visualstudio.com/items?itemName=acekaizen.acekaizen-code-theme">Visual Studio Marketplace</a> </p>
+<p> You can install this theme from the <a href="https://marketplace.visualstudio.com/items?itemName=AryanKashyap.theme-acekaizen-code">Visual Studio Marketplace</a> </p>
 
---- -->
+---
 
 <h2> Changes </h2>
 
