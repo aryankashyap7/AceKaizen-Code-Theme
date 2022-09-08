@@ -1,0 +1,24 @@
+{
+	"name": "theme-acekaizen-code",
+	"displayName": "AceKaizen Code Theme",
+	"description": "A dark vs-code theme made specially for coding purposes. This theme emphasizes on readability and code clarity.",
+	"version": "1.0.0",
+	"publisher": "Aryan Kashyap",
+	"repository": "https://github.com/aryankashyap7/AceKaizen-Code-Theme",
+    "icon": "acekaizen-code-theme.png",
+	"engines": {
+		"vscode": "^0.10.1"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "AceKaizen Sandbox Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/acekaizen-sandbox-theme.json"
+			}
+		]
+	}
+}
