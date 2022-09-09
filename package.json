@@ -1,15 +1,15 @@
 {
 	"name": "theme-acekaizen-code",
 	"displayName": "AceKaizen Code Theme",
-	"description": "A dark vs-code theme made especially for coding purposes. This theme emphasizes readability and code clarity. It is a dark theme with black and orange gradients.",
-	"version": "1.0.0",
+	"description": "A dark vs-code theme made especially for coding purposes. This theme emphasizes readability and code clarity.",
+	"version": "1.1.0",
 	"publisher": "AryanKashyap",
 	"repository": "https://github.com/aryankashyap7/AceKaizen-Code-Theme",
-    "icon": "icon.png",
+	"icon": "icon.png",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
-    "license": "MIT",
+	"license": "MIT",
 	"keywords": [
 		"theme",
 		"dark",
@@ -37,6 +37,11 @@
 				"label": "AceKaizen Code Theme",
 				"uiTheme": "vs-dark",
 				"path": "./themes/acekaizen-code-theme.json"
+			},
+			{
+				"label": "AceKaizen Calmly Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/acekaizen-calmly-dark.json"
 			}
 		]
 	}

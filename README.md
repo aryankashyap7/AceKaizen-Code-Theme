@@ -12,7 +12,17 @@
 <h2> Theme Snapshots </h2>
 
 <p align="center">
-  <img align="center" src="./assets/snapshot.gif" width="100%"/>
+
+<h3>1. AceKaizen Code Theme</h3>
+
+  <img align="center" src="./assets/act-snapshot.gif" width="100%"/>
+
+<br>
+
+<h3>2. AceKaizen Calmly Dark</h3>
+
+  <img align="center" src="./assets/acd-snapshot.gif" width="100%"/>
+
 </p>
 
 ---
